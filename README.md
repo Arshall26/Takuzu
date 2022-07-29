@@ -4,6 +4,7 @@ Takuzu, also known as Binairo, is a logic puzzle involving placement of two symb
 
 # Rules
 
-## There must be an equal number of 0s and 1s in each row and column. Since this example is an 8×8 grid, that means there should be four 0s and four 1s in each row and column.
-## There cannot be more than two 0s or 1s next to each other.
-## The layout of each row and column much be unique; that is, no two rows or columns can be the same.
+> There must be an equal number of 0s and 1s in each row and column. Since this example is an 8×8 grid, that means there should be four 0s and four 1s in each row and column.
+
+> There cannot be more than two 0s or 1s next to each other.
+> The layout of each row and column much be unique; that is, no two rows or columns can be the same.
